@@ -1,0 +1,13 @@
+<skills>
+<TestTheory> ["SDLC”, “STLC”, “Scrum”, “JSON”, “XML”] </TestTheory>,
+<TestDocumentation> [“test_plan”, “test_cases”, “check_lists”, “bug_report”, “TRR” </TestDocumentation>,
+<Linux> [“pwd”, “cd”, “mkdir”, “touch”, “vim”, “rm”, “mv”, “grep”]</Linux>,
+<Git> working_with_the_repository </Git>,
+<Postman> [“Get”, “Post”, “autotests”] </Postman>,
+<DevTools> GoogleChrome </DevTools>:,
+<JMeter> load_testing </JMeter>,
+<Proxy> Charles </Proxy>
+<SQL> [“select”,” where”, “between”, “group_by_order”, “like”, “join”, “union”, “insert_into”] </SQL>,
+<Android_Studio> mobile_testing </Android_Studio>
+</skills>
+
